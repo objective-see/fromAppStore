@@ -1,5 +1,6 @@
 # fromAppStore
-Checks if an application is pristine (untampered) and from the official Mac App Store
+Checks if an application is pristine (untampered) and from the official Mac App Store.
+<br>
 For technical details, see the blog post; ["Are you from the Mac App Store?"](https://objective-see.com/blog/blog_0x10.html)
 
 Code inspired by: [RVNReceiptValidation](https://gist.github.com/sazameki/3026845)
